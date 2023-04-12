@@ -2,7 +2,7 @@
 
 - Simple 2 page To-do list application used to record a TODO item with these fields: Category, Title, Description/Detail and Due Date.
 - Allows user to record, update and delete the item (after completion).
-- Completed from one of my assessments at with Generation programme for SpringBoot and the fullstack.
+- Completed with upgrades from one of my assessments at with Generation programme for SpringBoot and the fullstack.
 
 ## Changes required
 
